@@ -6,6 +6,7 @@ ES2015 Modules in Browser
 * Check the console for **Hello, World** message
 
 Current Browser Support: http://caniuse.com/#feat=es6-module
+* In Firefox you have to set the `dom.moduleScripts.enabled` property to `true` (`about:config`)
 
 Notes
 -----
