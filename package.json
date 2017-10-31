@@ -1,0 +1,9 @@
+{
+	"name": "es2015-modules-playground",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"typescript": "2.5"
+	}
+}
